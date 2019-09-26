@@ -1,5 +1,5 @@
 # The Flow of The Installation of Executable Files of "weibo", "apaweibo" And "mo-weibo" of dsx on One's Account on EDA Server of FDU
-# Edited by lyz
+# Edited by lyz0530
 # 2019/9/26
 
 Proceed as follows:
