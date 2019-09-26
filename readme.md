@@ -5,6 +5,7 @@
 Proceed as follows:
 
 ##Install relevant libraries and executable files
+
 (1)GCC(7.4.0 of mine)
 Before install high version of GCC that supports c++11
 you should 1st install "gmp"   (6.1.2 of mine, no other dependencies)
