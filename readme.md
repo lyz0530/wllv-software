@@ -1,4 +1,4 @@
-# The Flow of The Installation of Executable Files of "weibo", "apaweibo" And "mo-weibo" of wllv on One's Account on EDA Server of FDU
+# The Flow of The Installation of Executable Files of "weibo", "apaweibo" And "mo-weibo" of dsx on One's Account on EDA Server of FDU
 # Edited by lyz
 # 2019/9/26
 
