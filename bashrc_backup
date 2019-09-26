@@ -1,0 +1,31 @@
+# .bashrc
+
+
+###########################wllv c++#########################
+export C=/export/home/lyz/Software/GCC-7.4.0/bin/gcc
+export CXX=/export/home/lyz/Software/GCC-7.4.0/bin/g++
+export PATH=/bin:/usr/bin:/sbin/
+export PATH=~/Software/binutils-2.32/bin:$PATH
+export PATH=~/Software/Mpich-3.3.1/bin:$PATH
+export PATH=~/Software/GCC-7.4.0/bin:$PATH
+export PATH=~/Software/Cmake-3.15.3/cmake-3.15.3-Linux-x86_64/bin:$PATH
+export PATH=~/Software/Wllv-software/bin:$PATH
+export LD_LIBRARY_PATH=/usr/lib64
+export LD_LIBRARY_PATH=/export/home/lyz/Software/GCC-7.4.0/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/export/home/lyz/Software/GCC-7.4.0/lib64:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/export/home/lyz/Software/gmp-6.1.2/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/export/home/lyz/Software/mpfr-4.0.2/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/export/home/lyz/Software/mpc-1.1.0/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/binutils-2.32/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/isl-0.18/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/mylib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/Mpich-3.3.1/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/boost_1_63_0/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=~/Software/NLOPT/lib64:$LD_LIBRARY_PATH
+export C_INCLUDE_PATH=~/Software/GCC-7.4.0/include/c++/7.4.0
+export CPLUS_INCLUDE_PATH=~/Software/GCC-7.4.0/include/c++/7.4.0
+export CPLUS_INCLUDE_PATH=~/Software/GCC-7.4.0/include/c++/7.4.0/x86_64-pc-linux-gnu:$CPLUS_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=~/Software/Mpich-3.3.1/include:$CPLUS_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=~/Software/binutils-2.32/include:$CPLUS_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=~/Software/boost_1_63_0/include:$CPLUS_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=~/Software/NLOPT/include:$CPLUS_INCLUDE_PATH
